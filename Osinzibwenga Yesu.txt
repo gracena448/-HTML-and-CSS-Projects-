@@ -1,0 +1,6 @@
+`<! DOCTYPE html>`
+<a href="https://www.youtube.com/watch?v=6Ibw9QBIzfE&list=RD6Ibw9QBIzfE&start_radio=1>Osinzibwenga Yesu</a>
+<nav>
+<a href="Assignment.html">Home</a>
+<a href="https://www.planetware.com/photos-large/USNY/usa-best-places-san-francisco.jpg.html">Osinzibwenga Yesu picture</a>
+<a href="https://www.youtube.com/watch?v=6Ibw9QBIzfE&list=RD6Ibw9QBIzfE&index=1.html">Osinzibwenga Yesu Video</a>

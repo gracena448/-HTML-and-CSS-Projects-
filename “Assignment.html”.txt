@@ -1,0 +1,11 @@
+`<! DOCTYPE html>`
+ <a href="DOG.jfif">Dog Image</a>
+<p>
+<h1>
+<h3>
+<h6>
+<footer>
+<main>
+<img>
+<a href="https://www.planetware.com/photos-large/USNY/usa-best-places-san-francisco.jpg>San Fransisco</a>
+<a href="https://www.youtube.com/watch?v=6Ibw9QBIzfE&list=RD6Ibw9QBIzfE&index=1.html">Osinzibwenga Yesu Video</a>
